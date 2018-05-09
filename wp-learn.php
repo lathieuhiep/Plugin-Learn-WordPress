@@ -9,3 +9,9 @@ Author URI: https://www.facebook.com/lathieuhiep
 License: GPLv2 or later
 Text Domain: wp-learn
 */
+
+require 'includes/hook-filter.php';
+
+require 'includes/hook-action.php';
+
+require 'includes/options-api.php';
