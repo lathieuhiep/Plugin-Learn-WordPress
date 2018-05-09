@@ -17,3 +17,5 @@ require 'includes/hook-action.php';
 require 'includes/options-api.php';
 
 require 'includes/admin-menu.php';
+
+require 'includes/my-meta-boxes.php';
